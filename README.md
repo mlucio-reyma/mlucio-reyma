@@ -134,8 +134,7 @@ const miguel = {
 
 > Tutoriales de programación y desarrollo en **[Zoniklu](https://www.youtube.com/@zoniklu)** 🎬
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->[Cómo Instalar GitHub Spec-Kit en tu Equipo | Guía Paso a Paso ✅](https://www.youtube.com/watch?v=OuNHXXfxW_c)<!-- YOUTUBE:END -->
 
 ---
 
