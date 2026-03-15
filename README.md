@@ -102,6 +102,11 @@ const miguel = {
 
 </div>
 
+## 📺 Latest YouTube Video
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ---
 
 <!-- ===== GITHUB STATS ===== -->
