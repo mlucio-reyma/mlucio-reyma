@@ -132,9 +132,18 @@ const miguel = {
 <!-- ===== YOUTUBE LATEST VIDEO ===== -->
 ## 📺 Latest YouTube Video
 
-> Tutoriales de programación y desarrollo en **[Zoniklu](https://www.youtube.com/@zoniklu)** 🎬
+> Tutoriales de programación y desarrollo en **[Zoniklu](https://www.youtube.com/@zoniklu)** 🎬 — ¡Suscríbete!
 
-<!-- YOUTUBE:START -->[Cómo Instalar GitHub Spec-Kit en tu Equipo | Guía Paso a Paso ✅](https://www.youtube.com/watch?v=OuNHXXfxW_c)<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+<div align="center">
+
+<a href="https://www.youtube.com/@zoniklu?sub_confirmation=1">
+  <img src="https://img.shields.io/badge/Suscribirse-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscribirse"/>
+</a>
+
+</div>
 
 ---
 
