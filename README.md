@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- ===== ANIMATED BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Miguel%20Angel%20Lucio&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20M%C3%A9xico%20%F0%9F%87%B2%F0%9F%87%BD&descAlignY=58&descSize=18&descColor=8b949e" />
+<!-- ===== BANNER PERSONALIZADO ===== -->
+<img width="100%" src="./banner.png" alt="Miguel Angel Lucio Banner" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I%27m+Miguel+%F0%9F%91%8B;Full-Stack+Developer+%7C+.NET+%2B+TypeScript;Building+AI+%26+Automation+tools+%F0%9F%A4%96;n8n+%7C+Supabase+%7C+Kubernetes+%7C+Azure;Content+creator+%40+Zoniklu+%F0%9F%8E%AC;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Hey+there!+I%27m+Miguel+%F0%9F%91%8B;Full-Stack+Developer+%7C+.NET+%2B+TypeScript;Building+AI+%26+Automation+tools+%F0%9F%A4%96;n8n+%7C+Supabase+%7C+Kubernetes+%7C+Azure;Content+creator+%40+Zoniklu+%F0%9F%8E%AC;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -41,13 +41,15 @@ const miguel = {
   role:        "Full-Stack Developer",
   company:     "Empresa SA",
   brand:       "codebylucio.dev",
+  youtube:     "@zoniklu",
 
   stack: {
-    frontend:  ["React", "TypeScript", "HTML/CSS"],
+    frontend:  ["React", "Vue.js", "TypeScript", "HTML/CSS"],
+    styling:   ["Tailwind CSS", "Bootstrap", "Sass", "MUI"],
     backend:   [".NET / C#", "Node.js", "REST APIs"],
-    data:      ["Supabase", "PostgreSQL", "pgvector"],
-    devops:    ["Docker", "Kubernetes", "Azure"],
-    automation:["n8n", "AI Agents", "Anthropic Claude"],
+    data:      ["Supabase", "PostgreSQL", "SQL Server", "Firebase"],
+    devops:    ["Docker", "Kubernetes", "Azure", "n8n"],
+    ai:        ["Anthropic Claude", "Gemini", "Groq", "Vertex AI"],
   },
 
   currentlyBuilding: "Reptar 🦖 — my personal AI assistant",
@@ -63,9 +65,17 @@ const miguel = {
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**UI & Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 **Backend**
 
