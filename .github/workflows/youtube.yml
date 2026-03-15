@@ -12,13 +12,15 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Fetch latest YouTube video
+      - name: Fetch latest YouTube video with thumbnail
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCwQf-lBfQdYjGkDHiSAb1tg"
           readme_path: "./README.md"
           max_post_count: 1
-          template: "[$title]($url)"
           comment_tag_name: "YOUTUBE"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: '<table><tr><td><a href="$url"><img width="280px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td valign="top"><a href="$url"><strong>$title</strong></a><br/><br/>📅 $date<br/><br/>▶️ <a href="$url">Ver en YouTube</a></td></tr></table>$newline'
