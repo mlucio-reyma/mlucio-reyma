@@ -1,0 +1,24 @@
+name: Latest YouTube Video
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # cada 6 horas
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch latest YouTube video
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCwQf-lBfQdYjGkDHiSAb1tg"
+          readme_path: "./README.md"
+          max_post_count: 1
+          template: "[$title]($url)"
+          comment_tag_name: "YOUTUBE"
