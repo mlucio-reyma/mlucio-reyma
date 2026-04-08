@@ -134,8 +134,8 @@ const miguel = {
 
 > Tutoriales de programación y desarrollo en **[Zoniklu](https://www.youtube.com/@zoniklu)** 🎬 — ¡Suscríbete!
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3DefBc-2Gqg"><img width="280px" src="https://i.ytimg.com/vi/3DefBc-2Gqg/mqdefault.jpg"></a></td>
-<td valign="top"><a href="https://www.youtube.com/watch?v=3DefBc-2Gqg"><strong>Por Qué tus Agentes de IA FALLAN &lpar;y cómo arreglarlo con Spec-Driven Development&rpar;</strong></a><br/><br/>📅 Mar 25, 2026<br/><br/>▶️ <a href="https://www.youtube.com/watch?v=3DefBc-2Gqg">Ver en YouTube</a></td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3XMXYMcvo7g"><img width="280px" src="https://i.ytimg.com/vi/3XMXYMcvo7g/mqdefault.jpg"></a></td>
+<td valign="top"><a href="https://www.youtube.com/watch?v=3XMXYMcvo7g"><strong>SDD: Cómo Programar con IA sin Perder el Control de tu Proyecto 🤖</strong></a><br/><br/>📅 Apr 8, 2026<br/><br/>▶️ <a href="https://www.youtube.com/watch?v=3XMXYMcvo7g">Ver en YouTube</a></td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div align="center">
