@@ -134,8 +134,8 @@ const miguel = {
 
 > Tutoriales de programación y desarrollo en **[Zoniklu](https://www.youtube.com/@zoniklu)** 🎬 — ¡Suscríbete!
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3XMXYMcvo7g"><img width="280px" src="https://i.ytimg.com/vi/3XMXYMcvo7g/mqdefault.jpg"></a></td>
-<td valign="top"><a href="https://www.youtube.com/watch?v=3XMXYMcvo7g"><strong>SDD: Cómo Programar con IA sin Perder el Control de tu Proyecto 🤖</strong></a><br/><br/>📅 Apr 8, 2026<br/><br/>▶️ <a href="https://www.youtube.com/watch?v=3XMXYMcvo7g">Ver en YouTube</a></td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/eZ1e-kVtAz8"><img width="280px" src="https://i.ytimg.com/vi/eZ1e-kVtAz8/mqdefault.jpg"></a></td>
+<td valign="top"><a href="https://www.youtube.com/shorts/eZ1e-kVtAz8"><strong>¿Por qué el equipo de SDD nunca pide pizza? 🍕😂 | GUAU TECH</strong></a><br/><br/>📅 Apr 13, 2026<br/><br/>▶️ <a href="https://www.youtube.com/shorts/eZ1e-kVtAz8">Ver en YouTube</a></td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div align="center">
