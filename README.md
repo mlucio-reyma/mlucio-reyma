@@ -134,8 +134,8 @@ const miguel = {
 
 > Tutoriales de programación y desarrollo en **[Zoniklu](https://www.youtube.com/@zoniklu)** 🎬 — ¡Suscríbete!
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/eZ1e-kVtAz8"><img width="280px" src="https://i.ytimg.com/vi/eZ1e-kVtAz8/mqdefault.jpg"></a></td>
-<td valign="top"><a href="https://www.youtube.com/shorts/eZ1e-kVtAz8"><strong>¿Por qué el equipo de SDD nunca pide pizza? 🍕😂 | GUAU TECH</strong></a><br/><br/>📅 Apr 13, 2026<br/><br/>▶️ <a href="https://www.youtube.com/shorts/eZ1e-kVtAz8">Ver en YouTube</a></td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xR9AEFKh7kA"><img width="280px" src="https://i.ytimg.com/vi/xR9AEFKh7kA/mqdefault.jpg"></a></td>
+<td valign="top"><a href="https://www.youtube.com/watch?v=xR9AEFKh7kA"><strong>SDD vs TDD vs BDD: ¿Cuál Necesitas Realmente? &lpar;Spoiler: Los 3&rpar;</strong></a><br/><br/>📅 Apr 15, 2026<br/><br/>▶️ <a href="https://www.youtube.com/watch?v=xR9AEFKh7kA">Ver en YouTube</a></td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div align="center">
