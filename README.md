@@ -134,8 +134,8 @@ const miguel = {
 
 > Tutoriales de programación y desarrollo en **[Zoniklu](https://www.youtube.com/@zoniklu)** 🎬 — ¡Suscríbete!
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xR9AEFKh7kA"><img width="280px" src="https://i.ytimg.com/vi/xR9AEFKh7kA/mqdefault.jpg"></a></td>
-<td valign="top"><a href="https://www.youtube.com/watch?v=xR9AEFKh7kA"><strong>SDD vs TDD vs BDD: ¿Cuál Necesitas Realmente? &lpar;Spoiler: Los 3&rpar;</strong></a><br/><br/>📅 Apr 15, 2026<br/><br/>▶️ <a href="https://www.youtube.com/watch?v=xR9AEFKh7kA">Ver en YouTube</a></td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=atqJNtqGCB4"><img width="280px" src="https://i.ytimg.com/vi/atqJNtqGCB4/mqdefault.jpg"></a></td>
+<td valign="top"><a href="https://www.youtube.com/watch?v=atqJNtqGCB4"><strong>La 5ª Generación de Programación: Cuando la IA Obedece tu SPEC &lpar;No al Revés&rpar;</strong></a><br/><br/>📅 Apr 18, 2026<br/><br/>▶️ <a href="https://www.youtube.com/watch?v=atqJNtqGCB4">Ver en YouTube</a></td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div align="center">
