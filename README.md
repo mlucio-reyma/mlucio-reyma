@@ -134,8 +134,8 @@ const miguel = {
 
 > Tutoriales de programación y desarrollo en **[Zoniklu](https://www.youtube.com/@zoniklu)** 🎬 — ¡Suscríbete!
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=atqJNtqGCB4"><img width="280px" src="https://i.ytimg.com/vi/atqJNtqGCB4/mqdefault.jpg"></a></td>
-<td valign="top"><a href="https://www.youtube.com/watch?v=atqJNtqGCB4"><strong>La 5ª Generación de Programación: Cuando la IA Obedece tu SPEC &lpar;No al Revés&rpar;</strong></a><br/><br/>📅 Apr 18, 2026<br/><br/>▶️ <a href="https://www.youtube.com/watch?v=atqJNtqGCB4">Ver en YouTube</a></td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6s9owSHKZsI"><img width="280px" src="https://i.ytimg.com/vi/6s9owSHKZsI/mqdefault.jpg"></a></td>
+<td valign="top"><a href="https://www.youtube.com/watch?v=6s9owSHKZsI"><strong>Del Vibe Coding al Desarrollo Agéntico con SDD | El futuro de programar con IA</strong></a><br/><br/>📅 Nov 24, 2026<br/><br/>▶️ <a href="https://www.youtube.com/watch?v=6s9owSHKZsI">Ver en YouTube</a></td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div align="center">
